@@ -1,0 +1,17 @@
+[dotenv@17.3.1] injecting env (2) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+Server running on port 5000
+MongoDB Connected ✅
+protecting
+{
+  userId: '69c3e58b18254520557a536a',
+  role: 'student',
+  iat: 1774445964,
+  exp: 1775050764
+}
+protecting
+{
+  userId: '69c3e58b18254520557a536a',
+  role: 'student',
+  iat: 1774445964,
+  exp: 1775050764
+}
