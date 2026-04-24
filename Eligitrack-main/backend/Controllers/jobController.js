@@ -1,5 +1,5 @@
-const Job = require("../Models/Job");
-const User = require("../Models/User");
+const Job = require("../models/job");
+const User = require("../models/user");
 
 const getAllJobs = async (req, res) => {
   try {
